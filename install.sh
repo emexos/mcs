@@ -41,7 +41,7 @@ else
     if ! command -v "$bin" >/dev/null 2>&1; then
       echo "[x] Homebrew not found and '$bin' is missing."
       echo "    Please install Homebrew (https://brew.sh/) and then:"
-      echo "      brew install mpv cjson"
+      echo " -> brew install mpv cjson"
       exit 1
     fi
   done
