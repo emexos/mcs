@@ -14,7 +14,7 @@ confirm() {
   esac
 }
 
-echo "-======================================-"
+echo "-========================================-"
 echo " -> Install 'mcs' to $TARGET"
 confirm "   Proceed with installation to $TARGET?"
 confirm "   Are you absolutely sure this is the correct target directory?"
