@@ -13,7 +13,7 @@ confirm() {
   esac
 }
 
-echo "-======================================-"
+echo "-========================================-"
 echo " -> Uninstall 'mcs' from $TARGET"
 confirm "   Proceed with uninstallation?"
 
