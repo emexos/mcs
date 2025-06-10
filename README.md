@@ -1,6 +1,6 @@
 ## mcs
 
-**Version 1**
+**Version 2**
 Lots of features, maybe some bugs... but if there are no more bugs mcs will be open source.
 
 ## Installation
